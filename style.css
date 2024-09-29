@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bini{
+    background-color: pink;
+    text-align: center;
+}
+
+.bg{
+    background-color: pink;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.bg1{
+    background-color: black;
+}
+
+p{
+    color: black;
+    font-size: 20px;
+}
+
+ul{
+    color: black;
+}
+
+.f1{
+    font-size: 20px;
+}
+
+h2{
+    color: black;
+}
+
+.c1{
+    background-color: pink;
+    text-align: center;
+}
+
+.s{
+    font-size: 21px;
+}
+
+ul{
+    font-size: 19px;
+}
+
+.m1{
+    background-color: pink;
+    text-align: center;
+}
+
+.g1{
+    background-color: pink;
+    text-align: center;
+}
+
+.p0{
+    font-size: 24px;
+}
+
+
+.s1{
+    background-color: pink;
+    text-align: center;
+}
+
+.miks{
+    background-color: pink;
+    text-align: center;
+}
+
+.j1{
+    background-color: pink;
+    text-align: center;
+}
+
+.sh1{
+    background-color: pink;
+    text-align: center;
+}
+
+.fontsize{
+    font-size: 23px;
+}
+
+.font{
+    font-size: 22px;
+}
+
+.atik{
+    border: solid black 10px;
+}
